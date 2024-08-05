@@ -1,10 +1,10 @@
-- name: Dr. Richard Feynman
+- name: Zhikun Chen, EIT
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
+  info: PhD Candidate, Concordia University
+  email: zhikun.chen1996@gmail.com
   #github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  researchgate: https://www.researchgate.net/profile/Zhikun-Chen
+  scholar: https://scholar.google.ca/citations?user=hBcMkAoAAAAJ&hl=en
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
