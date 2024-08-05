@@ -9,8 +9,10 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "PhD Civil Engineering, Concordia Univeristy",
+      "MASc Civil Engineering, Concordia University",
+      "BEng Civil Engineering, University of Liverpool/Xi'an Jiaotong-Liverpool University",
+      "BEng Civil Engineering, Xi'an Jiaotong-Liverpool University"
     ]
 
   educationshort:
