@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Zhikun Chen
+email: zhikun.chen1996@gmail.com
+description: Academic webpage of Zhikun Chen
 baseurl: ""
 url: ""
 
@@ -22,7 +22,7 @@ affiliation: >
   #Pasadena, CA 91125
 
 contact: >
-  <a href="mailto:Zhikun.Chen1996@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+  <a href="mailto:Zhikun.Chen1996@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Zhikun via email</a> <br/>
 #  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
